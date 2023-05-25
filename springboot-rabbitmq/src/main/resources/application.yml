@@ -5,6 +5,7 @@ server:
       enabled: true
       charset: UTF-8
       force: true
+  port: 81
 logging:
   level:
     web: debug
